@@ -1,4 +1,5 @@
-Hi there 👋, I'm Ashish!
+### Hi there 👋, I'm Ashish!
+
 Have exposure♛ to building professional websites🖥 and front-end applications 💻. Experienced with a demonstrated history of working in the information technology and services industries🏢 . Skilled in FrontEnd Technologies✍️ as React.js, Angular, EcmaScript, JavaScript, HTML, CSS, Bootstrap, Flexbox, .GitHub, Saas applications.
 
 Apart from my professional journey, I am a learner📝 and enthusiastic to learn new tech. I have created 100+ mini & major projects💼 on Html and Reactjs,  Angular technologies. Also deployed and having live-hosted projects📽, checkout out my GitHub pages📒 or YouTube📲 channel for more details.
